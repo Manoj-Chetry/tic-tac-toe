@@ -15,6 +15,10 @@ h3 {
   text-align: center;
 }
 
+#user-info {
+  margin: 30px 0 0 0;
+}
+
 .container {
   height: 300px;
   width: 300px;
@@ -46,4 +50,10 @@ h3 {
 .col1,
 .col2 {
   border-right: 2px solid black;
+}
+
+#restart {
+  padding: 4px 10px;
+  font-size: large;
+  margin: 0 50vw;
 }
